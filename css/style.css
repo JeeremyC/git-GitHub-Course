@@ -3,3 +3,8 @@ p {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+div {
+    background-color:orange;
+    margin: 2px black;
+}
